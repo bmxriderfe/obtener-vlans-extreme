@@ -1,0 +1,9 @@
+# obtener-vlans-extreme
+
+SCRIPT PARA OBTENER LAS VLANS MEDIANTE SNMP V2 DE LOS EQUIPOS EXTREME DE LOS SIGUIENTES MODELOS
+
+Extreme Networks Summit
+Extreme Alpine
+ExtremeXOS
+
+
