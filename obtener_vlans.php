@@ -90,4 +90,12 @@ foreach ($vlansTag as $vlanIfIndex => $puertasBin) {
 
 print_r($puertas);
 
+function _str2bin($s)
+{
+    $r = "";
+    for ($i = 0; $i < strlen($s); $i++) {
+        $r .= _hex2bin($s[$i]);
+    }
+    return $r;
+}
 
