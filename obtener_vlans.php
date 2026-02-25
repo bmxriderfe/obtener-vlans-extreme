@@ -17,7 +17,7 @@ if ($argc < 3) {
     exit(1);
 }
 
-$host = $argv[1];
+$equipo = $argv[1];
 $community = $argv[2];
 
 // Validación básica
